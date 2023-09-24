@@ -1,0 +1,19 @@
+{
+  "name": "backend_peliculas",
+  "version": "1.0.0",
+  "description": "API REST Peliculas",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "peliculas"
+  ],
+  "author": "Juan Camilo Medina",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.2"
+  }
+}
